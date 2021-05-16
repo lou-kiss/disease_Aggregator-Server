@@ -1,0 +1,10 @@
+24 ENTER Joanna Simons AIDS 92
+24 EXIT Joanna Simons AIDS 92
+25 ENTER Ben Wesley COVID-2019 56
+25 EXIT Ben Wesley COVID-2019 56
+26 ENTER Nick Whittaker EVD 108
+27 ENTER Joanna Leon EVD 99
+27 EXIT Joanna Leon EVD 99
+28 ENTER George Luiz SARS-1 58
+29 ENTER Joanna Simons MERS-COV 78
+30 ENTER Larry Bolt EVD 98

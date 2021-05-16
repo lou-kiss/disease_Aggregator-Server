@@ -1,0 +1,10 @@
+8 EXIT Dave Potter AIDS 43
+9 ENTER Lex Simons ALS 60
+9 EXIT Lex Simons ALS 60
+10 ENTER Sam Bolt ALS 103
+11 ENTER Renne Luiz SARS-1 101
+11 EXIT Renne Luiz SARS-1 101
+12 ENTER Marc Wesley EVD 64
+12 EXIT Marc Wesley EVD 64
+13 ENTER Eric James ALS 94
+14 ENTER Joanna Popeye H1N1 108

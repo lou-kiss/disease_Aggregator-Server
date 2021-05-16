@@ -1,0 +1,10 @@
+52 ENTER Ruben Pereyra SARSCOV-2 58
+53 ENTER Marc Pereyra AHF 51
+54 ENTER George Snow FLU-2018 95
+55 ENTER Nikolas Bolt AIDS 29
+56 ENTER Ruben Terry AHF 91
+56 EXIT Ruben Terry AHF 91
+57 ENTER Terry Andrerson AIDS 105
+57 EXIT Terry Andrerson AIDS 105
+58 ENTER Susan Terry COVID-2019 75
+59 ENTER Anna Adams MERS-COV 95

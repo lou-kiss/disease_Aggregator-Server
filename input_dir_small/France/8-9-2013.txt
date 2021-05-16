@@ -1,0 +1,10 @@
+44 ENTER Jasmine Simons SARSCOV-2 49
+45 ENTER Teo Potter H1N1 4
+45 EXIT Teo Potter H1N1 4
+46 ENTER Diane Baker ALS 85
+47 ENTER Paul Wesley EVD 81
+48 ENTER Chris Curry EVD 72
+49 ENTER Jasmine Westbrook AHF 30
+50 ENTER Dino N'Diaye SARSCOV-2 4
+50 EXIT Dino N'Diaye SARSCOV-2 4
+51 ENTER Renne Wesley SARSCOV-2 112

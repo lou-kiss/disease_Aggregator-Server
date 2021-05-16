@@ -1,0 +1,10 @@
+/diseaseFrequency ALS 1-1-2000 1-1-2020
+/diseaseFrequency AHF 1-1-2000 1-1-2020 Greece
+/diseaseFrequency SARS-1 1-1-2000 1-1-2020
+/numPatientDischarges MERS-COV 01-01-2000 01-01-2020
+/numPatientDischarges EVD 01-01-2000 01-01-2020
+/numPatientAdmissions ALS 01-01-2000 01-01-2020 Turkey
+/numPatientAdmissions SARSCOV-2 01-01-2000 01-01-2020
+/topk-AgeRanges 4 Greece AHF 1-1-2000 1-1-2020
+/topk-AgeRanges 2 Cuba ALS 1-1-2000 1-1-2010
+/topk-AgeRanges 3 Spain H1N1 1-1-2005 1-1-2015

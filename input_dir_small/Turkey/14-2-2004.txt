@@ -1,0 +1,10 @@
+15 ENTER Ash Loukis AHF 73
+16 ENTER James Alonso H1N1 75
+17 ENTER Susan Rose FLU-2018 49
+18 ENTER Paul Baker H1N1 24
+19 ENTER Geralt Bolt FLU-2018 90
+20 ENTER Franklin N'Diaye EVD 102
+21 ENTER Ruben Delis ALS 23
+22 ENTER George Wesley FLU-2018 105
+23 ENTER Ash Terry SARS-1 3
+23 EXIT Ash Terry SARS-1 3

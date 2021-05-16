@@ -1,0 +1,10 @@
+1 ENTER Ben Polo FLU-2018 82
+2 ENTER Ash James MERS-COV 21
+3 ENTER Triss Potter FLU-2018 98
+4 ENTER Triss Stark ALS 78
+4 EXIT Triss Stark ALS 78
+5 ENTER Chris Pereyra AHF 71
+6 ENTER Ben Wesley H1N1 31
+6 EXIT Ben Wesley H1N1 31
+7 ENTER Geralt Terry AHF 19
+8 ENTER Dave Potter AIDS 43

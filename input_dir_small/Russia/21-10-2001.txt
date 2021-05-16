@@ -1,0 +1,10 @@
+74 ENTER Nikolas Potter EVD 25
+75 ENTER James N'Diaye EVD 32
+75 EXIT James N'Diaye EVD 32
+76 ENTER Dino Snow AIDS 6
+77 ENTER Nikolas Simons SARS-1 37
+77 EXIT Nikolas Simons SARS-1 37
+78 ENTER Paul Leon SARS-1 13
+79 ENTER Adam Whittaker AHF 84
+80 ENTER Maria Larsson ALS 86
+81 ENTER George N'Diaye H1N1 84
